@@ -16,7 +16,7 @@
 <img  width="200" height="400" src="https://github.com/Himanshu-381/Bible-App/blob/main/Images/Screenshot_1723208197.png"/>
 </p>
 
-Divine Dive - Holy Bible Daily app built using Jetpack Compose with Awesome UI.
+Divine Dive - Holy Bible Daily app built using ## Jetpack Compose ## with Awesome UI.
 
 ## :sparkles: Features:
 
