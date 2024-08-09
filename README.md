@@ -2,18 +2,18 @@
 
 ## Dark Mode ##
 <p align="center" >
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208166.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208169.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208173.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208176.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208166.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208169.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208173.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208176.png"/>
 </p>
 
 ## Light Mode ##
 <p align="center" >
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208188.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208192.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208194.png"/>
-<img  width="200" height="400" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208197.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208188.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208192.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208194.png"/>
+<img  width="200" height="600" src="https://github.com/Himanshu-381/Divine-Dive---Holy-Bible-Daily/blob/main/Images/Screenshot_1723208197.png"/>
 </p>
 
 Divine Dive - Holy Bible Daily app built using ## Jetpack Compose ## with Awesome UI.
